@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <?xml-stylesheet href="squad.xsl" type="text/xsl"?>
-<squad nick="Perat">
+<squad nick="CTI">
     <name>CTI</name>
     <email>perat.ofp@gmail.com</email>
     <web></web>
