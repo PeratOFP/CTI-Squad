@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!DOCTYPE squad SYSTEM "squad.dtd">
+<?xml-stylesheet href="squad.xsl" type="text/xsl"?>
+<squad nick="Perat">
+    <name>CTI</name>
+    <email>perat.ofp@gmail.com</email>
+    <web></web>
+    <picture>logo.jpg</picture>
+    <title>CTI Server</title>
+    <member id="8379413" nick="Perat">
+        <name>Perat</name>
+        <email>perat.ofp@gmail.com</email>
+        <icq>N/A</icq>
+        <remark>Veteran - CTI Server</remark>
+    </member>
+</squad>
